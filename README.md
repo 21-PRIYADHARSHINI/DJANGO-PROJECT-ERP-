@@ -1,2 +1,2 @@
-# DJANGO-PROJECT-ERP-
-This is a Django project on college management system.
+# DJANGO-PROJECT-LIB-
+This is a Django project on library management system.
